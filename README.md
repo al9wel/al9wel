@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Student passionate about **web development**
-- 💻 Skilled in: `HTML` `CSS` `JavaScript` `Tailwind CSS` `React` `Material UI` `C#` `Git` `GitHub`
+- 💻 Skilled in: `HTML` `CSS` `JavaScript` `Tailwind CSS` `React` `Redux` `Nextjs` `Nodejs` `Express` `MongoDB` `C#` `Git` `GitHub`
 - 🚀 Always building and learning new things!
 
 ## 🌟 Notable Project
@@ -13,10 +13,8 @@
 ### [Tawasol](https://github.com/al9wel/Tawasol)
 > A simple social media website—connect, share, and interact!
 
-## ⚡ Fun Fact
 
-I love coding and turning ideas into reality!  
-> "Code is my canvas, and every project is a new masterpiece."
+> "Code is my canvas, and every turning is a new masterpiece."
 
 ## 📫 Reach Me
 
@@ -30,7 +28,11 @@ I love coding and turning ideas into reality!
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?logo=mui&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)  
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
