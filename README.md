@@ -14,6 +14,7 @@
 
 - WhatsApp: [+967736584524](https://wa.me/967736584524)
 - Gmail: [sa.al9wel@gmail.com](mailto:sa.al9wel@gmail.com)
+- Linkedin: [https://www.linkedin.com/in/al9wel](https://www.linkedin.com/in/al9wel)
 
 ## 🛠️ Tools & Technologies
 
