@@ -8,12 +8,6 @@
 - 💻 Skilled in: `HTML` `CSS` `JavaScript` `Tailwind CSS` `React` `Redux` `Nextjs` `Nodejs` `Express` `MongoDB` `C#` `Git` `GitHub`
 - 🚀 Always building and learning new things!
 
-## 🌟 Notable Project
-
-### [Tawasol](https://github.com/al9wel/Tawasol)
-> A simple social media website—connect, share, and interact!
-
-
 > "Code is my canvas, and every turning is a new masterpiece."
 
 ## 📫 Reach Me
